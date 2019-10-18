@@ -1,4 +1,8 @@
-﻿
+﻿ #### Name: [Luiz Eduardo](https://github.com/Luiz-Edu0202)
+
+- Place:  Brasil
+- Bio: Living and learning, and learning to live
+- GitHub: [Luiz-Edu0202](https://github.com/Luiz-Edu0202)
 
  #### Name: [Parth Gupta](https://github.com/parthgpta)
 
